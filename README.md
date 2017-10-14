@@ -1,2 +1,9 @@
 # yourthought
-Provide users to ask philosophical questions and share their ideas about those questions
+
+## What is yourthought?
+
+yourthought is a project that provide people a thought-platform with certain rules.
+
+## What are those rules?
+
+
